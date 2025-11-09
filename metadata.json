@@ -1,0 +1,5 @@
+{
+  "name": "NN-Tool kits",
+  "description": "A versatile toolkit application featuring currency, temperature, weight, and distance converters, an image-to-PDF utility, QR code generator, age calculator, BMI calculator, password generator, text-to-speech, world clock, file compressor, audio/video converters, an AI-powered image restorer, and an AI-powered image to 3D converter.",
+  "requestFramePermissions": []
+}
